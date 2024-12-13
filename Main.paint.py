@@ -1,6 +1,6 @@
 # Max image size is 52
 # Max text size is 16
-import libary
+import paint
 import os
 from time import sleep  # Importing the sleep function
 from keyboard import add_hotkey, wait  # Importing keyboard functions
