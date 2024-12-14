@@ -21,11 +21,17 @@
     если вам надоело так писать можно так
      a.pshow()
 # 2. Перевод
-  чтобы исползавать нужно импортировать paint
-  И чтобы перевести надо сделать
-  1. trn = {"Python": "Thonny", "is Cool": "is Best!"}
-  2. text = a.trn(trn, "Python is Cool!")
-  3. print(text)
-  вывод
-    Thonny is Best!
+    чтобы исползавать нужно импортировать paint
+  
+    И чтобы перевести надо сделать
+  
+    1. trn = {"Python": "Thonny", "is Cool": "is Best!"}
+    
+    3. text = a.trn(trn, "Python is Cool!")
+     
+    5. print(text)
+     
+    вывод
+  
+      Thonny is Best!
   
